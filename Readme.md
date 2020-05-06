@@ -8,17 +8,6 @@ Go to https://www.python.org/ and download Python 3.7.x version as shown below a
 
 Open CMD
 
-   pip install -r requirements.txt
-
-Requirements will install all package
-If you get any errors in installition you may need this
-
-  
-   robotframework==3.2
-   robotframework-faker==5.0.0
-   robotframework-requests==0.7.0
-   robotframework-selenium2library==3.0.0
-   robotframework-seleniumlibrary==4.4.0
 
 
 Install Firefox
