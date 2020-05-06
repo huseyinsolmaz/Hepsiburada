@@ -8,20 +8,17 @@ Go to https://www.python.org/ and download Python 3.7.x version as shown below a
 
 Open CMD
 
-    pip install robotframework
+   pip install -r requirements.txt
 
-then Libraries
+Requirements will install all package
+If you get any errors in installition you may need this
 
-Selenium2library for UI automation
-
-FakerLibrary for generate random data
-
-python-pptx for generate PPTX file
-    
-    pip install python-pptx
-    pip install robotframework
-    pip install robotframework-selenium2library
-    pip install robotframework-faker
+  
+   robotframework==3.2
+   robotframework-faker==5.0.0
+   robotframework-requests==0.7.0
+   robotframework-selenium2library==3.0.0
+   robotframework-seleniumlibrary==4.4.0
 
 
 Install Firefox
